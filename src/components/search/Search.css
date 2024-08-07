@@ -1,0 +1,15 @@
+#pokemon-name-search{
+    width: 600px;
+    margin: 2rem;
+    padding: 1rem;
+    border-style: none;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+
+.Search-wrapper{
+    margin: 0px auto;
+}
