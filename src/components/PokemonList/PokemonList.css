@@ -4,3 +4,15 @@
     font-style: italic;
     font-weight: bold;
 }
+
+.pokemon-wrapper{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.controls button{
+    padding: 2px 20px;
+    margin-left: 20px;
+}
